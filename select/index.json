@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋のABO",
+  "base_artist": "NEWS",
+  "createdAt": "2026-03-13T08:13:08.400387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋のABO  (Strawberry LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/01_恋のABO_(Strawberry_LIVE_Ver.)_NEWS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋のABO  (NEWS EXPO LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/02_恋のABO_(NEWS_EXPO_LIVE_Ver.)_NEWS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋のABO - Koi no ABO",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/03_恋のABO_-_Koi_no_ABO_NEWS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋のABO",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/pl_01_恋のABO_NEWS.txt"
+    }
+  ]
+}
